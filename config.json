@@ -58,6 +58,20 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "fastapi-rest-api",
+      "title": "Building REST APIs com FastAPI",
+      "description": "Crie uma API REST com FastAPI para consultar, cadastrar, atualizar e remover livros.",
+      "path": "assignments/fastapi-rest-api",
+      "dueDate": "2026-11-04",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
